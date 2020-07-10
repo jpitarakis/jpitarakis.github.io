@@ -12,7 +12,7 @@ Bla Bla
 
 ---
 
-
+<!---
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
@@ -21,6 +21,7 @@ Bla Bla
             Blue Ham<br/>
             Email: WOOFWOOF@goodboy.com<br/>
         </div>
+-->
 
 <!---       <div class="span2">
         <a href="../assets/headshot.jpg">
