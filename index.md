@@ -22,11 +22,11 @@ Bla Bla
             Email: WOOFWOOF@goodboy.com<br/>
         </div>
 
-#       <div class="span2">
-#        <a href="../assets/headshot.jpg">
-#            <img src="../assets/headshot.jpg"
-#                  title="Blue Ham" alt="Blue Ham"/></a>
-#        </div>
-#    </div>
-# </div>
-
+<!---       <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Blue Ham" alt="Blue Ham"/></a>
+        </div>
+    </div>
+ </div>
+-->
